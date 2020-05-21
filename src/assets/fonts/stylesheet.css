@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'FiraSans Light';
+  src: url('../fonts/FiraSans-Light.eot');
+  src: local('FiraSans Light'), local('FiraSans-Light'),
+  url('../fonts/FiraSans-Light.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/FiraSans-Light.woff') format('woff'),
+  url('../fonts/FiraSans-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FiraSans LightItalic';
+  src: url('../FiraSans-LightItalic.eot');
+  src: local('FiraSans LightItalic'), local('FiraSans-LightItalic'),
+  url('../fonts/FiraSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/FiraSans-LightItalic.woff') format('woff'),
+  url('../fonts/FiraSans-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'FiraSans SemiBold';
+  src: url('../fonts/FiraSans-SemiBold.eot');
+  src: local('FiraSans SemiBold'), local('FiraSans-SemiBold'),
+  url('../fonts/FiraSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/FiraSans-SemiBold.woff') format('woff'),
+  url('../fonts/FiraSans-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FiraSans Heavy';
+  src: url('../fonts/FiraSans-Heavy.eot');
+  src: local('FiraSans Heavy'), local('FiraSans-Heav'),
+  url('../fonts/FiraSans-Heavy.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/FiraSans-Heavy.woff') format('woff'),
+  url('../fonts/FiraSans-Heavy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ubuntu Light';
+  src: url('../fonts/Ubuntu-Light.eot');
+  src: local('Ubuntu Light'), local('Ubuntu-Light'),
+  url('../fonts/Ubuntu-Light.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Ubuntu-Light.woff') format('woff'),
+  url('../fonts/Ubuntu-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
